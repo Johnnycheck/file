@@ -1,0 +1,26 @@
+{
+  "homepage": "https://www.curseforge.com/minecraft/mc-mods/neworesplus",
+  "1.20.1": {
+  	"1.0.0": "None", 
+  	"1.0.1": "None",
+  	"1.0.2": "None",
+        "1.0.3": "None",
+	"1.0.4": "None",
+	"1.0.5": "None",
+	"1.0.6": "All things have been changed, due to changing the MCreator Version to 2023.4 Snapshot build. Things Should be fine now. If there are any problems, please Comment on this page or go to my website",
+	"1.0.7": "This Version should work. I had to remake the whole mod again but this one works. This Version Adds Tin and Cobalt to the game. I will be adding more ores to this mod but this is fine for right now. Thank you for your understanding",
+	"1.0.8": "Updated the Generation of the ores, and got rid of a block. Ore generation is around Y level 30",
+	"1.0.9": "None",
+	"1.1.0": "This version changed the generation of the ores. they spawn at Y level -2",
+	"1.1.0.002": "Just some minor updates nothing really changed",
+  "1.18.2": {
+    	"1.0.0": "Made the Mod the 1.18.2 Forge Version. The ores generate at Y level 16"
+  },
+  "promos": {
+    "1.18.2-latest": "<1.0.1>",
+    // Declare the latest "bleeding-edge" version of your mod for the given Minecraft version
+    "1.18.2-recommended": "1.0.0>",
+    // Declare the latest "stable" version of your mod for the given Minecraft version
+    ...
+  }
+}
