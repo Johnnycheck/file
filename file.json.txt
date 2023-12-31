@@ -14,13 +14,11 @@
 	"1.1.0": "This version changed the generation of the ores. they spawn at Y level -2",
 	"1.1.0.002": "Just some minor updates nothing really changed",
   "1.18.2": {
-    	"1.0.0": "Made the Mod the 1.18.2 Forge Version. The ores generate at Y level 16"
+    	"1.0.0": "Made the Mod the 1.18.2 Forge Version. The ores generate at Y level 16",
+	"1.0.1": "None"
   },
   "promos": {
     "1.18.2-latest": "<1.0.1>",
-    // Declare the latest "bleeding-edge" version of your mod for the given Minecraft version
-    "1.18.2-recommended": "1.0.0>",
-    // Declare the latest "stable" version of your mod for the given Minecraft version
-    ...
+    "1.18.2-recommended": "<1.0.0>"
   }
 }
